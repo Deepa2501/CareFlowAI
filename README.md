@@ -1,5 +1,7 @@
 # 🚀 CareFlow AI
 
+🔗 **Live Dashboard:** [View Application Here](https://careflowai.streamlit.app/)
+
 ### Intelligent Care Pipeline Optimization System
 
 ---
@@ -161,6 +163,7 @@ Features included:
 * 🚨 Alert indicators
 * 🔮 Forecast charts
 * 🧩 Scenario simulation
+
 
 ---
 
